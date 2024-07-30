@@ -3,6 +3,6 @@
 
 -I'm studying alura💻
 
--I'm using this repository to introduce myself📒
+-I'm using this repository to introduce myself📒🧠
 
 -
